@@ -9,14 +9,16 @@ To write a Python program that prints the characters `'T'` and `'a'` using chara
 
 ## 🧾 Program
 ```
-a='T'
-b='a'
+a="T"
+b="a"
 print(a)
 print(b)
 ```
 
 ## Output
-![Screenshot 2025-04-28 192817](https://github.com/user-attachments/assets/eaa6721e-0db4-4eff-b9d2-8ac30d869253)
+![image](https://github.com/user-attachments/assets/3c539777-0543-45f5-bf40-563ba36b543e)
+
 
 ## Result
-Thus, the python program was executed successfully
+Thus the program executed successfully.
+
